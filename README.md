@@ -21,7 +21,7 @@ Dapat ditambahkan (tidak wajib) Fitur fitur keamanan yang dapat mendukung keberl
 
 Pada tahap ini, saya juga akan Membuat desain dari aplikasi ini
 
-3.	Implementation [Sedang Dilakukan]
+3.	Implementation [Sedang Dilakukan] >> Actual App Repo = https://github.com/upchunk/Exits
 Pada Tahap ini, Software akan di buat berdasarkan Fitur Fitur dan desain yang sudah di desain
 
 4.	Verification [BELUM DILAKUKAN]
